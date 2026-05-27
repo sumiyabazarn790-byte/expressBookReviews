@@ -1,0 +1,5 @@
+Command:
+curl -s -X POST -d username=john -d password=password http://localhost:5000/register
+
+Output:
+{"message":"User successfully registered"}
